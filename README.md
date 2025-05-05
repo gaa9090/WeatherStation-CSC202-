@@ -1,4 +1,4 @@
-# WeatherStation-CSC202
+# WeatherStation CSC-202
 
 Weather Station
 Gwen Antonio
