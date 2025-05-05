@@ -70,11 +70,12 @@ Timers + interrupts deliver precise 3‑second samples, while the keypad/LCD/LED
 
 ---
 
-MIT License © 2025
-
-
 
 References
 Argent Data Systems. (n.d.). Weather Sensor Assembly p/n 80422. Retrieved May 18, 2023, from https://cdn.sparkfun.com/assets/8/4/c/d/6/Weather_Sensor_Assembly_Updated.pdf
 Freenove. (n.d.). GitHub - Freenove/Freenove_RFID_Starter_Kit_for_Raspberry_Pi: Apply to FNK0025. GitHub. https://github.com/Freenove/Freenove_RFID_Starter_Kit_for_Raspberry_Pi
+
+
+MIT License © 2025
+
 
